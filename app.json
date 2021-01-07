@@ -1,0 +1,12 @@
+{
+  "name": "ReactMaps",
+  "displayName": "ReactMaps",
+  "expo": {
+    "name": "ReactMaps",
+    "slug": "ReactMaps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
